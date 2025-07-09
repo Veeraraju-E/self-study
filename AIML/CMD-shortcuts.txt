@@ -1,0 +1,16 @@
+General CMD commands
+1. dir-> shows all files
+2. cd-> change directory
+3. cd file_name -> adds the part to the path
+4. cd ../ -> clear most recent part of the path added
+5. cls-> clear
+6. mkdir(make directory) file_name-> create a folder with the given file_name
+7. type nul > file_name.extension --> creates a file of the type acc to given extension with name file_name 
+8. echo somecode > filename.extension --> enters the code in that file
+9. python file_name.py --> it will run the pgm present in file named file_name (in python)
+
+python_IDLE tips:
+first open IDLE, this acts as console to see outputs
+then file-new-gives a text editor type of file-to type out code
+once we type code in this file, we have to save it and then "run module"
+we can see ouput in the IDLE
